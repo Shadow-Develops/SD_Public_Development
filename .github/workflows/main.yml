@@ -1,4 +1,4 @@
-name: Add bugs to bugs project
+name: Add items to roadmap project
 
 on:
   issues:
